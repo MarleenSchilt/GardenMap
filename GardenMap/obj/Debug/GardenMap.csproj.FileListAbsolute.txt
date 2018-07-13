@@ -1,0 +1,11 @@
+C:\Users\marle\source\repos\GardenMap\GardenMap\bin\Debug\GardenMap.exe.config
+C:\Users\marle\source\repos\GardenMap\GardenMap\bin\Debug\GardenMap.exe
+C:\Users\marle\source\repos\GardenMap\GardenMap\bin\Debug\GardenMap.pdb
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Debug\GardenMap.csprojResolveAssemblyReference.cache
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Debug\GardenMap.Form1.resources
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Debug\GardenMap.Properties.Resources.resources
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Debug\GardenMap.csproj.GenerateResource.cache
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Debug\GardenMap.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Debug\GardenMap.exe
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Debug\GardenMap.pdb
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Debug\GardenMap.PlantInfoPropertyGrid.resources

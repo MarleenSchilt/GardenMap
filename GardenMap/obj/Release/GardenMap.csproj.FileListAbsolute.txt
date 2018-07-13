@@ -1,0 +1,21 @@
+C:\Users\marle\source\repos\GardenMap\GardenMap\bin\Release\GardenMap.exe.config
+C:\Users\marle\source\repos\GardenMap\GardenMap\bin\Release\GardenMap.exe
+C:\Users\marle\source\repos\GardenMap\GardenMap\bin\Release\GardenMap.pdb
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Release\GardenMap.Form1.resources
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Release\GardenMap.PlantInfoPropertyGrid.resources
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Release\GardenMap.Properties.Resources.resources
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Release\GardenMap.csproj.GenerateResource.cache
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Release\GardenMap.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Release\GardenMap.exe
+C:\Users\marle\source\repos\GardenMap\GardenMap\obj\Release\GardenMap.pdb
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\bin\Release\GardenMap.exe.config
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\bin\Release\GardenMap.exe
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\bin\Release\GardenMap.pdb
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\obj\Release\GardenMap.csprojResolveAssemblyReference.cache
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\obj\Release\GardenMap.Form1.resources
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\obj\Release\GardenMap.PlantInfoPropertyGrid.resources
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\obj\Release\GardenMap.Properties.Resources.resources
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\obj\Release\GardenMap.csproj.GenerateResource.cache
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\obj\Release\GardenMap.csproj.CoreCompileInputs.cache
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\obj\Release\GardenMap.exe
+C:\Users\marle\Documents\Visual Studio 2017\Projects\GardenMap\GardenMap\obj\Release\GardenMap.pdb
