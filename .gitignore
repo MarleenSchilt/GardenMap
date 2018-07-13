@@ -2,7 +2,9 @@
 *.dll
 *.exe
 *.pdb
-/obj/
-/build/
 *.suo
 *.user
+*.config
+obj
+build
+packages
