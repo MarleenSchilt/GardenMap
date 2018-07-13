@@ -30,6 +30,7 @@
         {
             this.roundButton2 = new GardenMap.RoundButton();
             this.roundButton1 = new GardenMap.RoundButton();
+            this.roundButton3 = new GardenMap.RoundButton();
             this.SuspendLayout();
             // 
             // roundButton2
@@ -57,12 +58,25 @@
             this.roundButton1.Text = "Clematis";
             this.roundButton1.UseVisualStyleBackColor = false;
             // 
+            // roundButton3
+            // 
+            this.roundButton3.FlatAppearance.BorderSize = 0;
+            this.roundButton3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.roundButton3.Location = new System.Drawing.Point(105, 247);
+            this.roundButton3.Name = "roundButton3";
+            this.roundButton3.Size = new System.Drawing.Size(75, 75);
+            this.roundButton3.TabIndex = 2;
+            this.roundButton3.Text = "roundButton3";
+            this.roundButton3.UseVisualStyleBackColor = true;
+            this.roundButton3.Click += new System.EventHandler(this.roundButton3_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::GardenMap.Properties.Resources.achtergrond_tuin;
             this.ClientSize = new System.Drawing.Size(484, 761);
+            this.Controls.Add(this.roundButton3);
             this.Controls.Add(this.roundButton2);
             this.Controls.Add(this.roundButton1);
             this.Name = "Form1";
@@ -74,6 +88,7 @@
         #endregion
         private RoundButton roundButton1;
         private RoundButton roundButton2;
+        private RoundButton roundButton3;
     }
 }
 
